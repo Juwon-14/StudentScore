@@ -1,0 +1,1 @@
+Ask the user to enter the students' scores. Compare the scores of each student entered by the user. Find the largest, smallest, and average scores of the students. Additionally, the function of comparing scores by entering two students the user is curious about is added. A total of 5 functions were added to create the program.
