@@ -1,0 +1,23 @@
+//Juwon Hong
+//CIS 25
+//02/10/2024
+
+#ifndef STUDENTSCORE_H
+#define STUDENTSCORE_H
+
+#include <string>
+using namespace std;
+
+namespace std
+{
+    int max(int arr[], int size);
+    int min(int arr[], int size);
+    double avg(int arr[], int size);
+    void aboveAverage(int arr[], string names[], int size);
+    void compare(int arr[], string names[], string stud1, string stud2, int size);
+}
+
+// Function to fill the array with student names and grades
+void fillArr(int arr[], string names[], int size);
+
+#endif
