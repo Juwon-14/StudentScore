@@ -17,7 +17,6 @@ namespace std
     void compare(int arr[], string names[], string stud1, string stud2, int size);
 }
 
-// Function to fill the array with student names and grades
 void fillArr(int arr[], string names[], int size);
 
 #endif
