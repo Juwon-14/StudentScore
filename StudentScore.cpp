@@ -90,4 +90,3 @@ void fillArr(int arr[], string names[], int size)
         cin >> arr[i];
     }
 }
-
